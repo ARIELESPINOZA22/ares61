@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822026670490",
+    "project_id": "aresmovil-72778",
+    "storage_bucket": "aresmovil-72778.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822026670490:android:8bfdfcc9ad364baddf2a23",
+        "android_client_info": {
+          "package_name": "com.ares61"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822026670490-uc8rdod7odnco97ch92fe67e98ctcl1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDzmViTeHBnyhozrdg0B8Aj-PIqtuFAFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822026670490-uc8rdod7odnco97ch92fe67e98ctcl1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
